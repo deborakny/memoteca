@@ -18,4 +18,11 @@ export class PensamentoComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  tamanhoCard(): string {
+    if (this.pensamento.conteudo.length > 256) {
+      return 'pensamento-g';
+    }
+    return 'pensamento-p';
+  }
+
 }
