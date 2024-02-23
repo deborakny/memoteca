@@ -11,12 +11,6 @@
       "conteudo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ipsum ex, dictum et lorem non, venenatis fermentum est. Integer in feugiat mi. Nunc in turpis neque. Vestibulum nisi lacus, facilisis eget quam in, maximus vehicula nulla. Nulla facilisi proin.",
       "autoria": "Lorem ipsum",
       "modelo": "modelo2"
-    },
-    {
-      "conteudo": "Pensamento editado",
-      "autoria": "Debora",
-      "modelo": "modelo1",
-      "id": 5
     }
   ]
 }
