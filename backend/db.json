@@ -13,21 +13,9 @@
       "modelo": "modelo2"
     },
     {
-      "id": 3,
-      "conteudo": "Comunicação com o backend",
-      "autoria": "Alura",
-      "modelo": "modelo3"
-    },
-    {
-      "conteudo": "Testando criação de pensamento",
+      "conteudo": "Novo pensamento",
       "autoria": "Debora",
       "modelo": "modelo1",
-      "id": 4
-    },
-    {
-      "conteudo": "Testando rota",
-      "autoria": "Debora",
-      "modelo": "modelo3",
       "id": 5
     }
   ]
